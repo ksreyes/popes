@@ -1,5 +1,5 @@
 # popes
-Dataset of all official popes from Peter to Francis, scraped from the Wikipedia article ["List of popes"](https://en.wikipedia.org/wiki/List_of_popes).
+Dataset of all official popes from Peter to Francis, scraped from the Wikipedia article ["List of popes"](https://en.wikipedia.org/wiki/List_of_popes). Used in my blog post ["Francis is an old pope"](https://twopoints.blog/posts/2023-02-06-francis-is-an-old-pope/).
 
 ## Variables
 - `number`: Pontiff number
